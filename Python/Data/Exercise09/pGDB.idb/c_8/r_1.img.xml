@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20190402</CreaDate><CreaTime>10531400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyRaster" Date="20190402" Time="105314">CopyRaster C:/GEO6533/Python/Data/Exercise09\lc_nbr C:\GEO6533\Python\Data\Exercise09\pGDB.mdb\lc_nbr # # -128 NONE NONE # NONE NONE "Esri Grid" NONE</Process></lineage></DataProperties></Esri></metadata>

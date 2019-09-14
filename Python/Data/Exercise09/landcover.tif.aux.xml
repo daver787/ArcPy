@@ -1,0 +1,154 @@
+<PAMDataset>
+  <Metadata/>
+  <Metadata domain="ESRI">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|0|0|0|0|0|0|0|0|0|0|11586|0|0|0|0|0|0|0|0|0|22133|21139|8227|859|0|0|0|0|0|0|21608|0|0|0|0|0|0|0|0|0|1396578|963442|89883|0|0|0|0|0|0|0|0|708046|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|386913|0|0|0|0|0|0|0|0|0|185615|1354|0|0|0|0|0|0|0|48929|0|0|0|0|1552|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0</HistCounts>
+      </HistItem>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>95.5</HistMax>
+        <BucketCount>96</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|0|0|0|0|0|0|0|0|0|0|11586|0|0|0|0|0|0|0|0|0|22133|21139|8227|859|0|0|0|0|0|0|21608|0|0|0|0|0|0|0|0|0|1396578|963442|89883|0|0|0|0|0|0|0|0|708046|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|386913|0|0|0|0|0|0|0|0|0|185615|1354|0|0|0|0|0|0|0|48929|0|0|0|0|1552</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>BinValues</Name>
+        <Type>1</Type>
+        <Usage>5</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>Histogram</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>Opacity</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>Value</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>11</F>
+        <F>11586</F>
+        <F>1</F>
+        <F>11</F>
+      </Row>
+      <Row index="1">
+        <F>21</F>
+        <F>22133</F>
+        <F>1</F>
+        <F>21</F>
+      </Row>
+      <Row index="2">
+        <F>22</F>
+        <F>21139</F>
+        <F>1</F>
+        <F>22</F>
+      </Row>
+      <Row index="3">
+        <F>23</F>
+        <F>8227</F>
+        <F>1</F>
+        <F>23</F>
+      </Row>
+      <Row index="4">
+        <F>24</F>
+        <F>859</F>
+        <F>1</F>
+        <F>24</F>
+      </Row>
+      <Row index="5">
+        <F>31</F>
+        <F>21608</F>
+        <F>1</F>
+        <F>31</F>
+      </Row>
+      <Row index="6">
+        <F>41</F>
+        <F>1396578</F>
+        <F>1</F>
+        <F>41</F>
+      </Row>
+      <Row index="7">
+        <F>42</F>
+        <F>963442</F>
+        <F>1</F>
+        <F>42</F>
+      </Row>
+      <Row index="8">
+        <F>43</F>
+        <F>89883</F>
+        <F>1</F>
+        <F>43</F>
+      </Row>
+      <Row index="9">
+        <F>52</F>
+        <F>708046</F>
+        <F>1</F>
+        <F>52</F>
+      </Row>
+      <Row index="10">
+        <F>71</F>
+        <F>386913</F>
+        <F>1</F>
+        <F>71</F>
+      </Row>
+      <Row index="11">
+        <F>81</F>
+        <F>185615</F>
+        <F>1</F>
+        <F>81</F>
+      </Row>
+      <Row index="12">
+        <F>82</F>
+        <F>1354</F>
+        <F>1</F>
+        <F>82</F>
+      </Row>
+      <Row index="13">
+        <F>90</F>
+        <F>48929</F>
+        <F>1</F>
+        <F>90</F>
+      </Row>
+      <Row index="14">
+        <F>95</F>
+        <F>1552</F>
+        <F>1</F>
+        <F>95</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">11</MDI>
+      <MDI key="STATISTICS_MAXIMUM">95</MDI>
+      <MDI key="STATISTICS_MEAN">48.479553831262</MDI>
+      <MDI key="STATISTICS_MEDIAN">42</MDI>
+      <MDI key="STATISTICS_MODE">41</MDI>
+      <MDI key="STATISTICS_STDDEV">13.181866995081</MDI>
+      <MDI key="LAYER_TYPE">thematic</MDI>
+      <MDI key="STATISTICS_HISTOBINVALUES">0|0|0|0|0|0|0|0|0|0|0|11586|0|0|0|0|0|0|0|0|0|22133|21139|8227|859|0|0|0|0|0|0|21608|0|0|0|0|0|0|0|0|0|1396578|963442|89883|0|0|0|0|0|0|0|0|708046|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|386913|0|0|0|0|0|0|0|0|0|185615|1354|0|0|0|0|0|0|0|48929|0|0|0|0|1552|</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES">255</MDI>
+      <MDI key="STATISTICS_HISTOMIN">0</MDI>
+      <MDI key="STATISTICS_HISTOMAX">95</MDI>
+      <MDI key="STATISTICS_HISTONUMBINS">96</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

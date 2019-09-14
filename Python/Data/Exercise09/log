@@ -1,0 +1,5 @@
+201010031737   0     1     0Paul c:\pythonbook\exercise09\Slope_elevat1 = SLOPE(c:\pythonbook\exercise09\elevation,  1, PERCENTRISE)
+201010032016   1     1     0Paul c:\pythonbook\exercise09\Reclass_elev1 = (c:\pythonbook\exercise09\elevation)
+201010032026   0     1     0Paul c:\pythonbook\exercise09\Reclass_land1 = (c:\pythonbook\exercise09\landcover.tif)
+201010032033   0     1     0Paul c:\pythonbook\exercise09\Reclass_land1 = (c:\pythonbook\exercise09\landcover.tif)
+201010032046   0     2     0Paul c:\pythonbook\exercise09\FocalSt_land1 = FOCALMAJORITY(c:\pythonbook\exercise09\landcover.tif,  Circle, 3, DATA)
